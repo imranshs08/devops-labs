@@ -1,6 +1,6 @@
 # DevOps Engineer Preparation – Week 1 Progress Tracker
 
-This `README.md` serves as a personal progress tracker for **Week 1** of your DevOps Engineer journey. This week covers the **basics of DevOps, Linux, and Shell Scripting**. The target is to study one topic per day and focus on **hands-on practice** and **interview preparation**.
+This `README.md` serves as a personal progress tracker for **Week 1** of your DevOps Engineer journey. This week covers the basics of DevOps, Linux, and Shell Scripting. The target is to study one topic per day and focus on hands-on practice and interview preparation.
 
 ---
 
@@ -64,13 +64,13 @@ This `README.md` serves as a personal progress tracker for **Week 1** of your De
 
 | S.No | Date       | Topic / Video / Lab                                | Completed |
 |------|------------|----------------------------------------------------|-----------|
-| 1    | 2025-07-29 | DevOps Introduction – What & Why                   | ☐         |
-| 2    | 2025-07-30 | SDLC, Agile vs Waterfall vs DevOps                | ☐         |
-| 3    | 2025-07-31 | DevOps Lifecycle & CI/CD Concepts                 | ☐         |
-| 4    | 2025-08-01 | Linux Basics: Filesystem, Commands, Permissions   | ☐         |
-| 5    | 2025-08-02 | Shell Scripting Part-1 (Variables, Loops, if-else) | ☐         |
-| 6    | 2025-08-03 | Shell Scripting Part-2 + Hands-on Practice        | ☐         |
-| 7    | 2025-08-04 | Linux + DevOps + SDLC Interview Questions         | ☐         |
+| 1    | 2025-07-24 | DevOps Introduction – What & Why                   | ☐         |
+| 2    | 2025-07-25 | SDLC, Agile vs Waterfall vs DevOps                | ☐         |
+| 3    | 2025-07-26 | DevOps Lifecycle & CI/CD Concepts                 | ☐         |
+| 4    | 2025-07-27 | Linux Basics: Filesystem, Commands, Permissions   | ☐         |
+| 5    | 2025-07-28 | Shell Scripting Part-1 (Variables, Loops, if-else) | ☐         |
+| 6    | 2025-07-29 | Shell Scripting Part-2 + Hands-on Practice        | ☐         |
+| 7    | 2025-07-30 | Linux + DevOps + SDLC Interview Questions         | ☐         |
 
 ---
 
@@ -80,9 +80,9 @@ This `README.md` serves as a personal progress tracker for **Week 1** of your De
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [DigitalOcean Linux Tutorials](https://www.digitalocean.com/community/tutorials)
 
-🔁 **Reminder**: Practice Linux daily for 15–30 mins — *repetition builds expertise.*
+🔁 Reminder: Practice Linux daily for 15–30 mins — repetition builds expertise.
 
 ---
 
 ## 📍Next Up
-➡️ **Week 2 – Git, GitHub & Jenkins (Setup + Freestyle Jobs)**
+➡️ Week 2 – Git, GitHub & Jenkins (Setup + Freestyle Jobs)
