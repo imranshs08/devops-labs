@@ -18,9 +18,9 @@ Below is your detailed schedule for completing the PowerShell course videos. Mar
 
 | S.No | Date | Video to Complete | Completed |
 |------|------------|-------------------------------|-----------|
-| 1 | 2025-07-24 | Video 1 | ☐ |
-| 2 | 2025-07-25 | Video 2 | ☐ |
-| 3 | 2025-07-26 | Video 3 | ☐ |
+| 1 | 2025-07-24 | Video 1 | ✔ |
+| 2 | 2025-07-25 | Video 2 | ✔ |
+| 3 | 2025-07-26 | Video 3 | ✔ |
 | 4 | 2025-07-27 | Video 4 | ☐ |
 | 5 | 2025-07-28 | Video 5 | ☐ |
 | 6 | 2025-07-29 | Video 6 | ☐ |
