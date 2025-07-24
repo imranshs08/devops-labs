@@ -1,12 +1,26 @@
 # DevOps Engineer Preparation – Week 1 Progress Tracker
 
-This `README.md` serves as a personal progress tracker for **Week 1** of your DevOps Engineer journey. This week covers the basics of DevOps, Linux, and Shell Scripting. The target is to study one topic per day and focus on hands-on practice and interview preparation.
+This `README.md` serves as a personal progress tracker for **Week 1** of your DevOps Engineer journey. The week is designed for deep foundational understanding of **DevOps culture, SDLC models, and Linux essentials**.
 
 ---
 
 ## 📘 Week 1: DevOps Fundamentals & Linux Basics  
-🗓️ Duration: 5 Days (Monday to Friday)  
-🎯 Goal: Build a solid foundation in DevOps culture, SDLC models, and master essential Linux commands needed for DevOps roles.
+🗓️ Duration: 7 Days (Starting 2025-07-24)  
+🎯 Goal: Build a solid foundation in DevOps & Linux to move confidently into automation tools and CI/CD pipelines.
+
+---
+
+## 🕒 Weekly Study Plan (Time Commitment)
+
+| Day           | Study Hours | Focus Area(s)                                     |
+|---------------|-------------|---------------------------------------------------|
+| Thursday      | 2 hrs       | DevOps Intro + What & Why                         |
+| Friday        | 4–5 hrs     | SDLC, Agile vs Waterfall vs DevOps               |
+| Saturday      | 4–5 hrs     | DevOps Lifecycle, Toolchain, CI/CD Concepts      |
+| Sunday        | 2 hrs       | Linux Basics – Shell, Navigation, Permissions     |
+| Monday        | 2 hrs       | Shell Scripting Part-1 (Loops, Variables, If-Else)|
+| Tuesday       | 2 hrs       | Shell Scripting Part-2 + Lab                      |
+| Wednesday     | 2 hrs       | Interview Questions (Linux + DevOps)             |
 
 ---
 
