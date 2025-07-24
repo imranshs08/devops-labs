@@ -16,7 +16,7 @@ Below is the detailed schedule for completing the CKA course videos. Mark the "C
 
 | S.No | Date | Video to Complete | Completed |
 |------|------------|---------------------------------|-----------|
-| 1 | 2025-07-24 | Video 1-3 | ☐ |
+| 1 | 2025-07-24 | Video 1-3 | ✔ |
 | 2 | 2025-07-25 | Video 4-6 | ☐ |
 | 3 | 2025-07-26 | Video 7-9 | ☐ |
 | 4 | 2025-07-27 | Video 10-12 | ☐ |
