@@ -1,0 +1,150 @@
+Day 01 : 
+Date : 20/07/2025, Sunday
+============================================
+DevOps Fundamentals :
+What is DevOps? Principles & Benefits : 
+Waterfall vs Agile vs DevOps :
+DevOps Lifecycle and Toolchain : 
+SDLC, CI/CD, Release Cycles :
+Popular Tools Overview: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, Azure, AWS :
+============================================
+DevOps Fundamentals :
+
+DevOps Fundamentals: What You Need to Learn
+
+Core DevOps Principles
+
+Collaboration: Understand how development and operations integrate, breaking down silos for better communication and shared responsibility.
+
+Automation: Learn to automate repetitive tasks—builds, testing, deployments, infrastructure setup—to reduce errors and speed up delivery.
+
+Continuous Improvement: Foster a mindset focused on ongoing process, code, and infrastructure enhancements guided by feedback loops.
+
+Customer-Centric Action: Adapt quickly to user needs with frequent, small, reliable software updates.
+
+Key DevOps Practices
+
+Continuous Integration (CI): Integrate code into shared repositories often, using automated tests to detect issues early.
+
+Continuous Delivery/Deployment (CD): Automate the release pipeline for code to flow smoothly toward production; understand deployment pipelines, staging, and canary releases.
+
+Infrastructure as Code (IaC): Use tools like Terraform or Ansible to define and manage infrastructure in code, enabling consistency and version control.
+
+Monitoring and Logging: Use tools to measure system health, collect logs, and send alerts to identify and respond to incidents proactively.
+
+Security Integration (DevSecOps): Embed security checks into every stage of the process—scanning, policy-as-code, and secure configurations.
+
+Essential Technical Skills
+Area	What to Learn	Example Tools/Technologies
+Source Code Management	Version control workflows, branching, reviews	Git, GitHub, GitLab
+CI/CD Pipeline Building	Creating and maintaining pipelines	Jenkins, GitLab CI, GitHub Actions
+Scripting & Automation	Automating jobs and infrastructure	Python, Bash, PowerShell
+Containerization	Container concepts, image management, orchestration	Docker, Kubernetes
+Cloud Platforms	Deployment, resource management, automation	AWS, Azure, GCP
+Configuration Management	Automating server setup and changes	Ansible, Chef, Puppet
+Monitoring/Observability	Setup & interpret dashboards, log analysis	Grafana, Prometheus, ELK
+
+Communication: Effectively share knowledge and feedback among cross-functional teams.
+
+Problem Solving: Address incidents methodically, automate fixes where possible.
+
+Continuous Learning: Adapt to new tools and best practices as the DevOps landscape evolves.
+
+DevOps Lifecycle Stages & Tools Overview:
+Lifecycle Stage	Typical Tools	Goals
+Plan	Jira, Confluence	Define work, facilitate collaboration
+Build/Code	GitHub, GitLab	Version control, collaboration
+Test	Selenium, JUnit	Automated, reliable tests
+Release/Deploy	Jenkins, Argo CD	Frequent, repeatable releases
+Operate/Monitor	ELK, Grafana, Prometheus	Availability, performance insights
+Continuous Feedback	Slack, Jira Service Mgmt	Fast, actionable user and system feedback
+
+
+Cultural Principles
+
+Transparency: Ensure visibility into both code and operations to align teams.
+
+Shared Responsibility: Both Dev and Ops own application uptime and quality from creation to production.
+
+Cross-Functional Teams: Include ops, dev, QA, and security in every lifecycle stage.
+
+Continuous Feedback: Embed feedback loops to rapidly fix and optimize processes and products.
+
+
+Interview Questions :
+
+
+What is DevOps and why is it important?
+
+Explain the concept of CI/CD. How have you implemented or used CI/CD pipelines?
+
+What is Infrastructure as Code (IaC)? Which tools have you used and how?
+
+Describe your experience with source code management tools. What workflows or branching strategies have you used?
+
+How do you automate builds, tests, and deployments? Name the tools and describe the process.
+
+What is containerization? How have you worked with Docker and/or Kubernetes in your projects?
+
+How do you set up monitoring and logging for applications and infrastructure?
+
+Describe how you ensure security is integrated into your DevOps processes (DevSecOps).
+
+Explain how you handle configuration management and what tools you have used (e.g., Ansible, Chef, Puppet).
+
+Can you describe a time you handled an incident or outage? What steps did you take and what did you learn?
+
+
+
+Scenario-Based DevOps Interview Questions (From Discussed Topics)
+
+CI/CD Pipeline Issue:
+
+You notice build failures happening frequently in your CI/CD pipeline.
+
+How would you approach troubleshooting and fixing the issue to restore smooth automated deployments?
+
+IaC Change Gone Wrong:
+A recent Terraform/Ansible change caused infrastructure misconfiguration in production.
+
+What steps would you follow to identify the root cause, roll back the change, and prevent it in the future?
+
+Source Code Management Challenge:
+Your team is facing merge conflicts and inconsistent branching strategies with Git.
+
+What workflow or branching policy would you suggest and how would you onboard the team to it?
+
+Automation Script Failure:
+A critical deployment script (Bash/Python) suddenly fails during a production release.
+
+How do you debug, fix, and restore automation scripts with minimal downtime?
+
+Container Crash Troubleshooting:
+After deploying a new microservice on Kubernetes, some pods stay in CrashLoopBackOff state.
+
+Explain your diagnostic steps and how you’d resolve the deployment issue.
+
+Cloud Resource Spike:
+Monitoring tools show a sudden spike in cloud resource usage and costs.
+
+What actions would you take to investigate, optimize, and prevent unnecessary spend?
+
+Configuration Drift Detected:
+You notice prod servers are no longer consistent due to missed Ansible runs.
+
+How do you bring environments back in sync and enforce configuration management best practices?
+
+Security in the Pipeline:
+Your build and deployment pipeline needs to comply with new security policies (DevSecOps).
+
+How would you ensure secrets management and security checks are integrated?
+
+Incident Response:
+An application outage leads to service downtime.
+
+Walk through your incident response process, including communication with stakeholders and post-incident lessons learned.
+
+Monitoring and Alerts Overload:
+The team receives too many false-positive alerts from the monitoring system.
+
+How would you tune alerting to ensure only actionable incidents are notified?
