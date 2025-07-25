@@ -12,3 +12,28 @@ CLRVersion                     4.0.30319.42000
 WSManStackVersion              3.0
 PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
+------------------------------------------
+Console Basics
+
+ipconfig
+
+dir
+
+dir | get-member
+-----------------------------------------
+Basic Data Types :
+
+$a=1+2
+
+$a
+
+ $a="This is a string"
+
+ $a.length
+
+ $a.substring(0,5)
+
+ $a="Tom"
+
+ $a= "My name is $b"
+========================================
