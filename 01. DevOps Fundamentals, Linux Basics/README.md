@@ -73,7 +73,7 @@
 | S.No | Date       | Video to Complete                              | Hours Planned | Completed |
 |------|------------|--------------------------------------------------|---------------|-----------|
 | 1    | 24-Jul-2025 | Introduction to DevOps + What is DevOps?       | 2 hrs         | ✅         |
-| 2    | 25-Jul-2025 | Waterfall vs Agile vs DevOps + DevOps Lifecycle| 2 hrs         | ☐         |
+| 2    | 25-Jul-2025 | Waterfall vs Agile vs DevOps + DevOps Lifecycle| 2 hrs         | ✅         |
 | 3    | 28-Jul-2025 | SDLC, CI/CD, Release Cycles                    | 1.5 hrs       | ☐         |
 | 4    | 29-Jul-2025 | Linux Basics – Navigation + File Ops          | 2 hrs         | ☐         |
 | 5    | 30-Jul-2025 | Linux Permissions + Process Commands + vi/nano| 2.5 hrs       | ☐         |
