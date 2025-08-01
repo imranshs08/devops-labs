@@ -37,3 +37,98 @@ $a
 
  $a= "My name is $b"
 ========================================
+Comparison Operator :
+
+12 -eq 37
+
+PS C:\Users\imran> $a=37
+PS C:\Users\imran> $b=22
+PS C:\Users\imran> $a -eq $b
+False
+PS C:\Users\imran> $a -ne $b
+True
+PS C:\Users\imran>
+
+Operator :
+
+-eq -> Equal To
+-ne -> Not Equal Types
+-gt -> Greater than
+-lt -> Less than
+
+=========================================
+
+get-process -> All process
+
+get-service -> All running service
+
+write-host "Hello World"
+
+======================================
+
+Aliases 
+
+PS C:\Users\imran> alias ls
+
+CommandType     Name                                               Version    Source
+-----------     ----                                               -------    ------
+Alias           ls -> Get-ChildItem
+
+
+PS C:\Users\imran> alias dir
+
+CommandType     Name                                               Version    Source
+-----------     ----                                               -------    ------
+Alias           dir -> Get-ChildItem
+
+PS C:\Users\imran> Set-Alias
+
+cmdlet Set-Alias at command pipeline position 1
+Supply values for the following parameters:
+Name: blah
+Value: Get-ChildItem
+PS C:\Users\imran> blah
+
+
+    Directory: C:\Users\imran
+
+PS C:\Users\imran> set-alias blah Get-ChildItem
+PS C:\Users\imran> blah
+
+
+    Directory: C:\Users\imran
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        09-07-2025     11:50                .aitk
+d-----        13-10-2024     14:36                .android
+d-----        25-06-2024     15:36                .atom
+
+
+=======================
+
+help blah
+
+S C:\Users\imran> help write-host
+
+NAME
+    Write-Host
+
+SYNTAX
+    Write-Host [[-Object] <Object>] [-NoNewline] [-Separator <Object>] [-ForegroundColor {Black | DarkBlue | DarkGreen | DarkCyan | DarkRed | DarkMagenta | DarkYellow | Gray | DarkGray | Blue | Green | Cyan
+    | Red | Magenta | Yellow | White}] [-BackgroundColor {Black | DarkBlue | DarkGreen | DarkCyan | DarkRed | DarkMagenta | DarkYellow | Gray | DarkGray | Blue | Green | Cyan | Red | Magenta | Yellow |
+    White}]  [<CommonParameters>]
+
+
+ALIASES
+    None
+
+
+REMARKS
+    Get-Help cannot find the Help files for this cmdlet on this computer. It is displaying only partial help.
+        -- To download and install Help files for the module that includes this cmdlet, use Update-Help.
+        -- To view the Help topic for this cmdlet online, type: "Get-Help Write-Host -Online" or
+           go to https://go.microsoft.com/fwlink/?LinkID=113426.
+
+=================================================================
