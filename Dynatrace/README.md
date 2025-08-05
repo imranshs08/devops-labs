@@ -3,6 +3,11 @@
 This repository tracks my journey through the [Dynatrace Learning Tutorial](https://www.udemy.com/course/dynatrace-learning-tutorial/) on Udemy.  
 Goal: Gain Dynatrace expertise with hands-on practice and prepare for DevOps interviews requiring observability & APM skills.
 
+## 📌 Environment Details
+- **Dynatrace URL** : https://gww54659.apps.dynatrace.com/ui/apps/dynatrace.launcher
+- **Email** : info@cdbspl.com.
+- **Trial End Date** : 15-August-2025
+
 ---
 
 ## 📌 Course Details

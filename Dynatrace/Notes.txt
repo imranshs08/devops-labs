@@ -1,0 +1,8 @@
+Free Trial 15 days
+
+# Lec2 : 
+
+https://sso.dynatrace.com/
+
+#Logging to Dynatrace :
+
