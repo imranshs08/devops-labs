@@ -1,0 +1,23 @@
+================================================================
+🗓 Date: YYYY-MM-DD
+📌 Topic / Domain: (e.g., RBAC, Storage, Networking, Compute, Backup, Monitoring)
+🎯 Source: (Dump / Mock Test # / Scenario Practice / Lab)
+
+❌ Question / Mistake:
+- (Write the exact question or summary of the problem)
+- (Your wrong answer: ___)
+- (Correct answer: ___)
+
+🔍 Root Cause:
+- (Why you got it wrong — misunderstood concept, missed keyword, rushed, confused between services, etc.)
+
+✅ Correct Explanation:
+- (Brief explanation of why the correct answer is right, and why your chosen one is wrong)
+
+📘 Reference:
+- (Official MS Docs link, Notes file name, or Dump question ID if available)
+
+🔁 Preventive Action:
+- (What you’ll do to avoid repeating this mistake: checklist, cheat sheet, hands-on practice, mnemonic, etc.)
+
+---------------------------------------------------------------
