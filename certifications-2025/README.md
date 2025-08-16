@@ -8,7 +8,7 @@ This tracker is designed to help plan and monitor monthly progress on certificat
 
 | Month     | Certification                                | Status   | Target Date | Exam Scheduled | Result | Voucher Purchased | Notes |
 |-----------|----------------------------------------------|----------|-------------|----------------|--------|-------------------|-------|
-| August    | AZ-104: Microsoft Azure Administrator        | Planned  | 25-Aug-2025 |                |        | ❌                | Core Azure administration skills |
+| August    | AZ-104: Microsoft Azure Administrator        | Planned  | 03-Sept-2025| 03-Sept-2025   |        | ✅               | Core Azure administration skills |
 | September | Terraform Associate (HashiCorp)              | Planned  | 22-Sep-2025 |                |        | ❌                | IaC mastery (cross-cloud) |
 | October   | Certified Kubernetes Administrator (CKA)     | Planned  | 27-Oct-2025 |                |        | ❌                | Kubernetes cluster admin |
 | November  | AZ-400: Microsoft DevOps Engineer Expert     | Planned  | 24-Nov-2025 |                |        | ❌                | CI/CD pipelines, DevOps practices in Azure |
