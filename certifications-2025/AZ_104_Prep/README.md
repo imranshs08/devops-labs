@@ -1,6 +1,3 @@
-Got it 👍
-Here’s a **GitHub-ready `README.md`** that includes the **repo structure** along with your **study plan for AZ-104**.
-
 ```markdown
 # AZ-104 Exam Preparation Tracker
 ```
