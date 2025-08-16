@@ -1,10 +1,12 @@
 ````markdown
+
 # AZ-104 Exam Preparation Tracker
 
 This repository is created to track my **AZ-104: Microsoft Azure Administrator** exam preparation.  
 Exam Date: **3rd September 2025, 4:00 PM IST**
-
 ````
+---
+
 ## 📅 Study Plan (Daily Tracking)
 
 ### ✅ Week 1 (17th Aug – 23rd Aug) → Dumps + Weak Areas
