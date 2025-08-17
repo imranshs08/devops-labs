@@ -21,3 +21,38 @@
 - (What you’ll do to avoid repeating this mistake: checklist, cheat sheet, hands-on practice, mnemonic, etc.)
 
 ---------------------------------------------------------------
+Note: The question is included in a number of questions that depicts the identical set-up. However, every question has a distinctive result. Establish if the solution satisfies the requirements.
+1. Your company has an Azure Active Directory (Azure AD) subscription.
+You want to implement an Azure AD conditional access policy.
+The policy must be configured to require members of the Global Administrators group to use Multi-Factor Authentication and an Azure AD-joined device when they connect to Azure AD from untrusted locations.
+Solution: You access the multi-factor authentication page to alter the user settings.
+Does the solution meet the goal?
+
+A. Yes
+B. No
+
+Ans : No, 
+
+To meet the goal:
+
+You need to configure a Conditional Access policy in Azure AD:
+
+Go to: Azure AD > Security > Conditional Access.
+
+Create a new policy.
+
+Target users: Select the Global Administrators group.
+
+Cloud apps: Choose appropriate apps or "All cloud apps".
+
+Conditions:
+
+Locations: Configure to include "All locations" and exclude "trusted locations".
+
+Access controls:
+
+Grant access but require MFA and require device to be Azure AD joined.
+
+✅ That setup would meet the goal.
+
+=========================================================
