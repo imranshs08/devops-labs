@@ -144,5 +144,8 @@ Exam Date: **3rd September 2025, 4:00 PM IST**
 
 🔥 Goal → **Score 800+ in AZ-104 and Pass on Sept 3rd.**
 ```
-
+```
+---
+## Resources :
+- [Administer-Identity](https://kodekloud.com/kk-media/image/upload/v1706861736/course-resource-new/M1-Administer-Identity.pdf)
 ---
