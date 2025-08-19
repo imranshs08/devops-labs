@@ -148,4 +148,5 @@ Exam Date: **3rd September 2025, 4:00 PM IST**
 ---
 ## Resources :
 - [Administer-Identity](https://kodekloud.com/kk-media/image/upload/v1706861736/course-resource-new/M1-Administer-Identity.pdf)
+- [Administer Governance and Compliance](https://kodekloud.com/kk-media/image/upload/v1706861738/course-resource-new/M2-Administer-Governance-and-Compliance.pdf)
 ---
