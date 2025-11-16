@@ -1,0 +1,120 @@
+Course URL :
+
+https://learn.kodekloud.com/user/courses/introduction-to-k8sgpt-and-ai-driven-kubernetes-engineering/module/8b0fa7f4-693d-4b05-8dde-854c644b12f5/lesson/5cc2db11-0a7d-419d-a4ee-ceaef64290b0
+
+Course Name : Introduction to K8sGPT and AI-Driven Kubernetes Engineering
+
+Date : 16-Nov-2025
+---------------------------
+
+Ai's  impact on Kubernetes
+Cutting-Edge Tools
+Agentic Future
+Evolving Roles
+Preparing for change
+======================================
+Traditional vs AI-Assisted Kubernetes Management
+
+Key Benefits
+
+- Simplified diagnostics and troubleshooting
+- Automated task execution and optimization
+- Enhanced decision-making through predictive analytics
+- Improved security through intelligent threat detection
+- Increased efficiency and speed in  software development and delivery
+
+
+======================================
+
+K8sGPT: Features and Capabilities
+
+- AI Agents for k8s
+- k8sGPT is an open-source tool that scans Kubernetes clusters
+
+Key Features :
+
+01. Cluster Scanning
+02. Issue Diagnosis
+03. Plain English Explanation  
+04. Actionable advice
+05. Anoymization
+06. Extensibility
+
+Supported Backend 
+- OpenAI
+- Azure OpenAI
+- LocalAI
+- chohere
+- Amazon Bedrock
+- Gemini
+
+=====================================
+k8sgpt
+
+k8sgpt analyse --explain
+
+k8sgpt auth add
+
+k8sgpt analyze
+
+k8sgpt analyze --explain --namespace k8sgpt
+
+k8sgpt analyze --explain --filter=Service --namespace k8sgpt
+======================================
+
+Defining the Agentic Future in DevOps
+
+
+Types of AI Agents 
+
+a. Simple Reflex Agents
+b. Model based reflex Agents
+c. Goal based Agents
+d. Utilities based Agents
+e. Learning Agents
+f. Hierarchical Agents
+
+Key Features
+a. Autonomous problem-solving
+b. continuous learning and improvement
+c. Predictive and proactive
+d. intelligent collaboration
+e. Cross system optimization
+====================================
+
+Potential Impact on DevOps roles and processes :
+
+a. Shift in Human roles
+b. Accelerated Innovation
+c. Enhanced reliability and performance
+d. Democrazation of DevOps 
+
+=================================
+Evolving Roles in an AI-driven World
+01. From Executors to Orchestrators
+02. AI Trainers and Supervisors
+03. Interpreters and Communcations
+04. Ethical AI Stewards
+05. Innovation Drivers
+
+=========================
+
+Key Takeaways for Kubernetes Engineers
+
+1. AI is transforming Kubrnetes and DevOps, enhancing efficiency and decision-making
+2. Tool like K8sGPT enable AI to autonomously perform complex tasks.
+3. DevOps engineers roles are shifting to stratrgic orchestration of AI-driven systems
+4. AI introduces challenges like data privacy, skill gaps and ethical issues
+5. Future DevOps will feature a symbiotic relationship between humans and AI
+
+
+====================================
+Skills and Knowledge needed for Future Kubernetes Engineers
+
+1. AI and Machine Learning Fundamentals
+2. Advanced Kubernetes Knowledge
+3. Programming and Scripting
+4. Data Science and Analytics
+5. System Architecture
+6. Soft Skills
+
