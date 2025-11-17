@@ -1,4 +1,5 @@
 ```markdown
+
 # AZ-104 Learning Journey – Complete Study Plan, Hands-On Labs, GitHub Tracking & Exam Guide
 
 This repository contains your complete AZ-104 preparation system:
@@ -10,7 +11,7 @@ This repository contains your complete AZ-104 preparation system:
 - Hands-on checklists
 - Progress tracking (Sheets, GitHub, Notion)
 - PDF packages (hands-on kit, revision sheets, trackers)
-
+```
 ---
 
 # 📚 Reference Links (Click to Open)
@@ -176,7 +177,7 @@ https://www.youtube.com/@Azure4Everyone
 ```
 # 📁 GitHub Folder Structure
 
-```
+
 
 AZ104-Learning-Journey/
 ├── 01-Identity-IAM/
