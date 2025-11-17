@@ -1,0 +1,11 @@
+#!/bin/bash
+
+val=1
+
+echo $val
+
+hostname=$(hostname)
+echo "Hostname of this PC is - $hostname"
+echo "User Logged in is - $(whoami)"
+
+

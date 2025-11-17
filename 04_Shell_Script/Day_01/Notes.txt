@@ -1,6 +1,7 @@
 Course : Master SHELL SCRIPTING in ONE VIDEO 🔥 for Beginners [HINDI] | MPrashant
 URL : https://www.youtube.com/watch?v=TtGM9GfBuok
 Date : 17-Nov-2025
+Course Duration : 05 Hours 10 minutes
 =============================================
 What is Linux SHELL
 
@@ -23,6 +24,18 @@ What is the type of my default shell
 echo $0
 
 /usr/bin/bash
+----------------------
 
+What are Varaibles
 
+VAR_NAME=value
+VAR_NAME=$(hostname)
+echo $VAR_NAME
 
+Contant Varaibles
+
+readonly var_name="Hi"
+
+============================
+
+Arrays
