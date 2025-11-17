@@ -1,0 +1,28 @@
+Course : Master SHELL SCRIPTING in ONE VIDEO 🔥 for Beginners [HINDI] | MPrashant
+URL : https://www.youtube.com/watch?v=TtGM9GfBuok
+Date : 17-Nov-2025
+=============================================
+What is Linux SHELL
+
+A shell provide an environment to a user to execute commands and interact with kernel.
+
+- Hardware
+- Kernel
+- Shell 
+- Applications
+
+There are different types of shells
+- bash
+- shell- ksh
+- tsh
+- fish
+- zsh
+
+What is the type of my default shell 
+
+echo $0
+
+/usr/bin/bash
+
+
+
