@@ -1,4 +1,3 @@
----
 ```markdown
 # AZ-104 Learning Journey – Complete Study Plan, Hands-On Labs, GitHub Tracking & Exam Guide
 
