@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Shell Basics — Interview Prep and Hands-on Labs
 
