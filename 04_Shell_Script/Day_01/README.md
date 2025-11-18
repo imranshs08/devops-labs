@@ -1,6 +1,6 @@
 ```markdown
 # Shell Basics — Interview Prep and Hands-on Labs
-
+```
 ## Table of Contents
 - Overview
 - Detailed Topic Breakdown
@@ -166,4 +166,3 @@ Syntax:
 
 ````
 
----
